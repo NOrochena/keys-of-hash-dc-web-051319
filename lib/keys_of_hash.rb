@@ -3,7 +3,6 @@ class Hash
     arr = []
     
     arguments.each do |value|
-      puts value
       self.keys.each do |key|
         if key == value
           arr.push(self[key])
