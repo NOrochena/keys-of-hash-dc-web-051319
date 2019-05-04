@@ -11,6 +11,7 @@ class Hash
         end
       end
     end
+    puts arr
     arr
   end
 end
