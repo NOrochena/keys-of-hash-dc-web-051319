@@ -9,7 +9,6 @@ class Hash
         end
       end
     end
-    puts self
     arr
   end
 end
