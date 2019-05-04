@@ -1,5 +1,4 @@
 # Keys Of Hash
-
 ## Objectives
 
 1. Practice manipulating hashes
