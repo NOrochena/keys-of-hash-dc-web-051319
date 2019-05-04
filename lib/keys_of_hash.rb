@@ -9,7 +9,7 @@ class Hash
         end
       end
     end
-    puts self.keys
+    puts self
     arr
   end
 end
