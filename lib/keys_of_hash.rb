@@ -5,7 +5,7 @@ class Hash
       puts value
       self.keys.each do |key|
         if key == value
-          arr.push(key)
+          arr.push(self[key])
         end
       end
     end
