@@ -4,14 +4,12 @@ class Hash
     
     arguments.each do |value|
       self.keys.each do |key|
-        arr.push(key)
-        puts value
         if key == value
           arr.push(self[key])
         end
       end
     end
-    puts arr
+    puts self.keys
     arr
   end
 end
